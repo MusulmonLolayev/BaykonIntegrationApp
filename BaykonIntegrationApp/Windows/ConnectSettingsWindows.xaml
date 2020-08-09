@@ -1,0 +1,28 @@
+﻿<Window x:Class="BaykonIntegrationApp.Windows.ConnectSettingsWindows"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BaykonIntegrationApp.Windows"
+        xmlns:resLocal="clr-namespace:BaykonIntegrationApp.Resources.Localization"
+        xmlns:resCommonLocal="clr-namespace:CommonLibrary.Resources.Localization;assembly=CommonLibrary"
+        mc:Ignorable="d"
+        Title="{x:Static resCommonLocal:Language.SelectCOMPort}" Height="100" Width="250" ResizeMode="NoResize">
+    <Grid Margin="3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBlock VerticalAlignment="Center" Text="{x:Static resCommonLocal:Language.AvailablePorts}"/>
+        <ComboBox Name="cmbxPosrts" Grid.Column="1" VerticalAlignment="Center"/>
+
+        <Button Content="{x:Static resCommonLocal:Language.Connect}" Grid.Row="3" Width="80" Grid.Column="1" 
+                HorizontalAlignment="Center" VerticalAlignment="Center" Click="Button_Click"/>
+        <Button Content="{x:Static resCommonLocal:Language.Cancel}" Grid.Row="3" Width="80" 
+                HorizontalAlignment="Center" Click="Button_Click_1" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

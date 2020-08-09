@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<ContextMainWindow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>0</Id>
+  <CreatedDate>2019-09-22T00:00:00+05:00</CreatedDate>
+  <ModefiedDate>2019-09-22T00:00:00+05:00</ModefiedDate>
+  <State>Active</State>
+  <Printer_Name>\\172.21.0.132\Canon MF4400 Series UFRII LT</Printer_Name>
+  <COM_Name>COM3</COM_Name>
+  <SelViewBox>
+    <Id>5</Id>
+    <Name>Мешок красный</Name>
+  </SelViewBox>
+  <VievsBox>
+    <StringModel>
+      <Id>1</Id>
+      <Name>Коробка</Name>
+    </StringModel>
+    <StringModel>
+      <Id>2</Id>
+      <Name>Мешок без печати</Name>
+    </StringModel>
+    <StringModel>
+      <Id>3</Id>
+      <Name>Мешок зеленый</Name>
+    </StringModel>
+    <StringModel>
+      <Id>4</Id>
+      <Name>Мешок коричневый</Name>
+    </StringModel>
+    <StringModel>
+      <Id>5</Id>
+      <Name>Мешок красный</Name>
+    </StringModel>
+    <StringModel>
+      <Id>6</Id>
+      <Name>Мешок синий</Name>
+    </StringModel>
+    <StringModel>
+      <Id>7</Id>
+      <Name>Мешок фиолетовый</Name>
+    </StringModel>
+    <StringModel>
+      <Id>8</Id>
+      <Name>Мешок чёрный</Name>
+    </StringModel>
+  </VievsBox>
+  <SelColorCone>
+    <Id>10</Id>
+    <Name>Оранжевая сплошная</Name>
+  </SelColorCone>
+  <ColorsCone>
+    <StringModel>
+      <Id>1</Id>
+      <Name>Бесцветная</Name>
+    </StringModel>
+    <StringModel>
+      <Id>2</Id>
+      <Name>Желтый</Name>
+    </StringModel>
+    <StringModel>
+      <Id>3</Id>
+      <Name>Зеленая волна</Name>
+    </StringModel>
+    <StringModel>
+      <Id>4</Id>
+      <Name>Зеленая зебра</Name>
+    </StringModel>
+    <StringModel>
+      <Id>5</Id>
+      <Name>Зеленая сплошная</Name>
+    </StringModel>
+    <StringModel>
+      <Id>6</Id>
+      <Name>Коричневый горошек</Name>
+    </StringModel>
+    <StringModel>
+      <Id>7</Id>
+      <Name>Коричневый полоса</Name>
+    </StringModel>
+    <StringModel>
+      <Id>8</Id>
+      <Name>Красная зебра</Name>
+    </StringModel>
+    <StringModel>
+      <Id>9</Id>
+      <Name>Оранжевая волна</Name>
+    </StringModel>
+    <StringModel>
+      <Id>10</Id>
+      <Name>Оранжевая сплошная</Name>
+    </StringModel>
+    <StringModel>
+      <Id>11</Id>
+      <Name>Синяя зебра</Name>
+    </StringModel>
+    <StringModel>
+      <Id>12</Id>
+      <Name>Синяя сплошная</Name>
+    </StringModel>
+    <StringModel>
+      <Id>13</Id>
+      <Name>Черная зебра</Name>
+    </StringModel>
+    <StringModel>
+      <Id>14</Id>
+      <Name>Черная сплошная</Name>
+    </StringModel>
+  </ColorsCone>
+  <FistNumberOfBox>2323</FistNumberOfBox>
+  <SelLot>
+    <Id>6</Id>
+    <Name>GW009</Name>
+  </SelLot>
+  <Lots>
+    <StringModel>
+      <Id>1</Id>
+      <Name>GK008</Name>
+    </StringModel>
+    <StringModel>
+      <Id>2</Id>
+      <Name>GK009</Name>
+    </StringModel>
+    <StringModel>
+      <Id>3</Id>
+      <Name>GC008</Name>
+    </StringModel>
+    <StringModel>
+      <Id>4</Id>
+      <Name>GC009</Name>
+    </StringModel>
+    <StringModel>
+      <Id>5</Id>
+      <Name>GW008</Name>
+    </StringModel>
+    <StringModel>
+      <Id>6</Id>
+      <Name>GW009</Name>
+    </StringModel>
+  </Lots>
+  <SelNomen>
+    <Id>1</Id>
+    <Name>CKD 30 (ГП)</Name>
+  </SelNomen>
+  <Nomens>
+    <StringModel>
+      <Id>1</Id>
+      <Name>CKD 30 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>2</Id>
+      <Name>CKD 32 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>3</Id>
+      <Name>CCM 30 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>4</Id>
+      <Name>CKD 28 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>5</Id>
+      <Name>CCM 32 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>6</Id>
+      <Name>CCM 40 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>7</Id>
+      <Name>CCW 40 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>8</Id>
+      <Name>CCM 36 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>9</Id>
+      <Name>KCC 30 (ГП)</Name>
+    </StringModel>
+    <StringModel>
+      <Id>10</Id>
+      <Name>CKD 36 (ГП)</Name>
+    </StringModel>
+  </Nomens>
+  <SelSmena>
+    <Id>3</Id>
+    <Name>C</Name>
+  </SelSmena>
+  <Smenas>
+    <StringModel>
+      <Id>1</Id>
+      <Name>A</Name>
+    </StringModel>
+    <StringModel>
+      <Id>2</Id>
+      <Name>B</Name>
+    </StringModel>
+    <StringModel>
+      <Id>3</Id>
+      <Name>C</Name>
+    </StringModel>
+    <StringModel>
+      <Id>4</Id>
+      <Name>D</Name>
+    </StringModel>
+    <StringModel>
+      <Id>5</Id>
+      <Name>E</Name>
+    </StringModel>
+  </Smenas>
+  <PrintRow>6</PrintRow>
+  <WeightBox>1.85</WeightBox>
+</ContextMainWindow>

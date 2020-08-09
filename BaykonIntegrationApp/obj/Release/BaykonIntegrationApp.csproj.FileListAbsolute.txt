@@ -1,0 +1,54 @@
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\AppData\DataBase.db
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Templates\Temp1.xlsx
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Baykon Integration Application.exe.config
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Baykon Integration Application.exe
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Baykon Integration Application.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\uz\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\ru\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\CommonLibrary.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\System.Data.SQLite.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.presentation.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\CommonLibrary.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\System.Data.SQLite.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\System.Data.SQLite.dll.config
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.presentation.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\zxing.presentation.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\ru\CommonLibrary.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\uz\CommonLibrary.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.csprojAssemblyReference.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\MainWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\LotAddWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\PackageViewAddWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\PrinterSettingsWindows.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\ConnectSettingsWindows.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\InputDialog.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\App.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application_MarkupCompile.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application_MarkupCompile.lref
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\App.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\MainWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\LotAddWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\PackageViewAddWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\PrinterSettingsWindows.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\ConnectSettingsWindows.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Windows\InputDialog.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.g.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.Properties.Resources.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.Resources.Localization.Language.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.Resources.Localization.Language.uz.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.Resources.Localization.Language.ru.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.csproj.GenerateResource.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\uz\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\ru\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\BaykonIntegrationApp.csproj.CopyComplete
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.exe
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Baykon Integration Application.exe.manifest
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Release\Baykon Integration Application.application
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.TrustInfo.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.exe.manifest
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Release\Baykon Integration Application.application

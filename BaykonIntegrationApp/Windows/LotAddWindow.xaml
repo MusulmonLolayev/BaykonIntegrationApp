@@ -1,0 +1,28 @@
+﻿<Window x:Class="BaykonIntegrationApp.Windows.LotAddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BaykonIntegrationApp.Windows"
+        mc:Ignorable="d"
+         Title="Ma'lumot kiriting" Height="170" Width="320">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <TextBlock HorizontalAlignment="Right" Text="Nomi: " VerticalAlignment="Center"/>
+        <TextBox Text="{Binding Name}" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center">Birinchi qadoq raqami:</TextBlock>
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding LastNumber}"  Margin="5"/>
+
+        <Button Click="Button_Click_1" Content="Cancel" Grid.Row="2" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Margin="2"/>
+        <Button Click="Button_Click" Content="Ok" Grid.Row="2" Grid.Column="1" Width="100" HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Margin="2"/>
+    </Grid>
+</Window>

@@ -1,0 +1,67 @@
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.csprojAssemblyReference.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\MainWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PrinterSettingsWindows.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ConnectSettingsWindows.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\InputDialog.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\App.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Templates\Temp1.xlsx
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\CommonLibrary.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.presentation.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\CommonLibrary.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.presentation.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\zxing.presentation.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\ru\CommonLibrary.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\uz\CommonLibrary.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\App.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\MainWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PrinterSettingsWindows.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ConnectSettingsWindows.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\InputDialog.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.Properties.Resources.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.Resources.Localization.Language.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.Resources.Localization.Language.uz.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.Resources.Localization.Language.ru.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.csproj.GenerateResource.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\BaykonIntegrationApp.csproj.CopyComplete
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\System.Data.SQLite.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\System.Data.SQLite.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\System.Data.SQLite.dll.config
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\AppData\DataBase.db
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\LotAddWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PackageViewAddWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\LotAddWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PackageViewAddWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Baykon Integration Application.exe.config
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Baykon Integration Application.exe
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Baykon Integration Application.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\uz\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\ru\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application_MarkupCompile.cache
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application_MarkupCompile.lref
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.g.resources
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\uz\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\ru\Baykon Integration Application.resources.dll
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.exe
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.pdb
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Baykon Integration Application.exe.manifest
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\bin\Debug\Baykon Integration Application.application
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.TrustInfo.xml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.exe.manifest
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Baykon Integration Application.application
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\NomenclatureUserControl.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ServicesWindow.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\NomenclatureUserControl.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ServicesWindow.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ChamgeUserControl.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ChamgeUserControl.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PackageUserControl.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\PackageUserControl.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\LotUserControl.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\LotUserControl.baml
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ConeUserControl.g.cs
+D:\Programs\Projects\Baykon\Programms\BaykonIntegrationApp\BaykonIntegrationApp\obj\Debug\Windows\ConeUserControl.baml
